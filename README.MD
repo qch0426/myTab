@@ -1,4 +1,4 @@
 ## 我的标签页
 
 ### **AI**
-http://www.chatgpt.com/
+https://www.aibase.com/zh
