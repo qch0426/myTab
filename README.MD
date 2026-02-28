@@ -18,8 +18,8 @@
 ### **news** 
 - [HN(Hacker News)](https://news.ycombinator.com/)
 - techcrunch：
-  + 官方主页: techcrunch.com
-  + AI 频道: techcrunch.com/category/artificial-intelligence/
+  + 官方主页: https://techcrunch.com
+  + AI 频道: https://techcrunch.com/category/artificial-intelligence/
   + RSS 全球订阅源: https://techcrunch.com/feed/
   + AI 频道 RSS: https://techcrunch.com/category/artificial-intelligence/feed/（推荐，针对性更强）
 
