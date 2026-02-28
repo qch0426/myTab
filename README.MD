@@ -21,7 +21,7 @@
   + 官方主页: https://techcrunch.com
   + AI 频道: https://techcrunch.com/category/artificial-intelligence/
   + RSS 全球订阅源: https://techcrunch.com/feed/
-  + AI 频道 RSS: https://techcrunch.com/category/artificial-intelligence/feed/（推荐，针对性更强）
+  + AI 频道 RSS（推荐，针对性更强）: https://techcrunch.com/category/artificial-intelligence/feed/
 
 ### **每日/每周简讯**
 - [BearTalk AI 每日简讯](https://podcasts.apple.com/us/podcast/beartalk-ai-%E6%AF%8F%E6%97%A5%E7%AE%80%E8%AE%AF/id1880636436)
