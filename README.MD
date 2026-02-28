@@ -11,6 +11,10 @@
 - [threads](https://www.threads.com/)
 
 
+
+- https://substack.com/
+
+
 ### **news** 
 - [HN(Hacker News)](https://news.ycombinator.com/)
 
