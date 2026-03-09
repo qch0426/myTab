@@ -1,5 +1,8 @@
 ## 我的标签页
 
+### **AI排名**
+- https://arena.ai/leaderboard 
+
 ### **AI**
 - https://www.aibase.com/zh
 
