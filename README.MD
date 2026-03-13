@@ -3,6 +3,8 @@
 ### **AI排名**
 - https://arena.ai/leaderboard 
 
+- https://a16z.com/100-gen-ai-apps-6/
+
 #### 🏆 综合实力与人类评价 (LMSYS Arena)
 * **名称**：Chatbot Arena (LMSYS)
 * **核心**：公认最权威。基于盲测 Elo 分数，代表全球真实用户的直观好用程度。
