@@ -73,3 +73,12 @@
 
 ### **PdF资源检索**
 - https://pdfresources.com/
+
+
+
+
+
+### 其他
+ - https://souls.zip/shop
+
+
